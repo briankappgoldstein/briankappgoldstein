@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @briankappgoldstein
-- 👀 I’m interested in core web technologies like HTML, CSS, JS, and Python for some heavy lifting. 
-- 🌱 I’m currently learning more about using Python for SEO
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in core web technologies! 
+- 🌱 I’m currently learning more about React, JAMStack, and other fun things. 
+- 💞️ I’m looking to get back up to snuff with my development chops after a few years not building
 - 📫 How to reach me: linkedin https://www.linkedin.com/in/brian-k-goldstein/
 
 <!---
